@@ -1,5 +1,5 @@
-# Python
-Python-File processing
+# Python-File processing
+
 
 Understand what is python from the web. This specific I have done to demonstarted how we can run huge set of files easily to database with help fine. I have scheduled job everyday or any conviniece you can change.
 
